@@ -4,7 +4,6 @@
 
 ![bateman - I'm walking on sunshine!](bateman.gif)
 
-test
 <!--
 **McFrappe/McFrappe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
